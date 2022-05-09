@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Prueba de Ingreso</string>
+    <string name="see_posts">VER PUBLICACIONES</string>
+    <string name="search" translatable="false">Buscar</string>
+
+</resources>
